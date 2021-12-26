@@ -1,0 +1,22 @@
+.mainHeader {
+    display: flex;
+    justify-content: space-between;
+    padding: 45px 0;
+    margin-bottom: 90px;
+}
+.title {
+    font-size: 25px;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+}
+nav > a {
+    margin-left: 35px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+}
+
+.linkActive {
+    color: #e59c9c;
+    text-decoration: underline;
+}

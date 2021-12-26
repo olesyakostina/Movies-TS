@@ -1,0 +1,15 @@
+.AboutUs__wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.AboutUs__info {
+    margin-left: 35px;
+    color: #333333;
+    font-size: 30px;
+    font-family: "Open Sans", sans-serif;
+}
+.AboutUs__info-elem {
+    padding-top: 10px;
+    font-family: "Open Sans", sans-serif;
+}

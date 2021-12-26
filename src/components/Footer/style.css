@@ -1,0 +1,23 @@
+footer {
+    background-color: #3a3a3a;
+}
+.mainFooter {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 45px 0;
+    color: #ffffff;
+}
+div {
+    font-size: 25px;
+    font-weight: 700px;
+}
+.small {
+    font-size: 20px;
+    font-weight: 400;
+}
+.small__item {
+    text-align: right;
+    font-weight: 700;
+    font-size: 18px;
+}

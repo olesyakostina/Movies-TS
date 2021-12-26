@@ -1,0 +1,16 @@
+span {
+    color: #e59c9c;
+    font-size: 30px;
+    font-weight: 700;
+    padding-left: 35px;
+    font-family: "Open Sans", sans-serif;
+}
+.categoryInfo {
+    font-size: 30px;
+    font-weight: 700;
+    color: #333333;
+    font-family: "Open Sans", sans-serif;
+}
+.categoryInfo-wrapper {
+    padding: 40px 90px;
+}

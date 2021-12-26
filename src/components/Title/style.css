@@ -1,0 +1,14 @@
+.mainTitle{
+    text-align: center;
+}
+.title__item{
+    font-weight: 700;
+    font-size: 60px;
+    color: #E59C9C;
+    
+}
+.title__elem{
+    font-weight: 700;
+    font-size: 30px;
+    color: #ffff;    
+}
